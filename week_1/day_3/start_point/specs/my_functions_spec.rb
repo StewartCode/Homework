@@ -31,6 +31,7 @@ class My_Functions < MiniTest::Test
     assert_equal( 15, result )
   end
 
+
   ################################################################
 
   # Write a function that has two parameters, array and item
